@@ -8,7 +8,7 @@ This can be done by running the following sequence of commands:
 3. nohup python3 app.py &
 
 
-## Contributors
+## Team BlackRed | UniHack 2023
 - Hruday Markonda
 - Katherine Di Bona
 - Jordan Math
