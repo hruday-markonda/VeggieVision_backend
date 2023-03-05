@@ -1,6 +1,6 @@
 # VeggieVision Project
 
-##Running the server
+## Running the server
 
 This can be done by running the following sequence of commands:
 1. source miniconda3/bin/activate
@@ -8,7 +8,7 @@ This can be done by running the following sequence of commands:
 3. nohup python3 app.py &
 
 
-##Contributors
+## Contributors
 - Hruday Markonda
 - Katherine Di Bona
 - Jordan Math
